@@ -27,6 +27,33 @@ a {
 }
 
 * {
-color: yellow;
+color: orange;
 }
 
+.container-1 {
+  width:200px;
+  height:100px;
+  background-color: blue;
+  padding: 20px;
+  margin: 10px;
+  position: absolute;
+}
+
+.container-2 {
+  width:200px;
+  height:100px;
+  background-color: green;
+  padding: 20px;
+  left: 230px;
+  margin: 10px 50px;
+  position: absolute;
+}
+.container-3 {
+  width:200px;
+  height:100px;
+  background-color: aqua;
+  padding: 20px;
+  left: 460px;
+  margin: 10px 80px;
+  position: absolute;
+}

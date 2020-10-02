@@ -1,1 +1,32 @@
-p {background-color: red}
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: yellow;
+}
+
+h3 {
+  color: violet;
+}
+
+a {
+  color: yellow;
+}
+
+.pink {
+  color: pink;
+}
+
+.body {
+  color: yellow;
+}
+
+#red-part {
+  color: red;
+}
+
+* {
+color: yellow;
+}
+

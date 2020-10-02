@@ -1,33 +1,28 @@
 h1 {
-  color: blue;
+  color: grey;
+  margin-top: 1em;
+  padding-top: 1em;
 }
 
 h2 {
-  color: yellow;
+  color: grey;
 }
 
 h3 {
-  color: violet;
+  color: grey;
 }
 
-a {
-  color: yellow;
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', san-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
 }
-
-.pink {
-  color: pink;
-}
-
-.body {
-  color: yellow;
-}
-
-#red-part {
-  color: red;
-}
-
-* {
-color: orange;
+code {
+  padding: 2px 4px;
+  vertical-aling: text-bottom;
+  background: #eee;  
 }
 
 .container-1 {
@@ -36,7 +31,7 @@ color: orange;
   background-color: blue;
   padding: 20px;
   margin: 10px;
-  position: absolute;
+  position: static;
   text-transform: uppercase;
   text-aling: center;
   border-style: solid;
